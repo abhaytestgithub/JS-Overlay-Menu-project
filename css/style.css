@@ -56,7 +56,8 @@ body{
         list-style: none;
     }
     .nav-cal ul li a{
-        color: white;
+        /* color changed to white to green */
+        color: green;
         font-size: 18px;
         display: block;
         padding: 8px 0;
